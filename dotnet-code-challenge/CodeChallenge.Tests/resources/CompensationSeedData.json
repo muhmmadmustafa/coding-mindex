@@ -1,0 +1,34 @@
+﻿[
+  {
+    "compensationId": "b7839309-3348-463b-a7e3-5de1c168beb1",
+    "employee": {
+      "employeeId": "16a596ae-edd3-4847-99fe-c4518e82c86f"
+    },
+    "salary": "123456",
+    "effectiveDate": "9/14/2023 9:09:01 AM"
+  },
+  {
+    "compensationId": "b7839309-3348-463b-a7e3-5de1c168beb2",
+    "employee": {
+      "employeeId": "b7839309-3348-463b-a7e3-5de1c168beb3"
+    },
+    "salary": "123456",
+    "effectiveDate": "9/14/2023 9:09:01 AM"
+  },
+  {
+    "compensationId": "b7839309-3348-463b-a7e3-5de1c168beb7",
+    "employee": {
+      "employeeId": "03aa1462-ffa9-4978-901b-7c001562cf6f"
+    },
+    "salary": "123456",
+    "effectiveDate": "9/14/2023 9:09:01 AM"
+  },
+  {
+    "compensationId": "62c1084e-6e34-4630-93fd-9153afb65308",
+    "employee": {
+      "employeeId": "62c1084e-6e34-4630-93fd-9153afb65309"
+    },
+    "salary": "123456",
+    "effectiveDate": "9/14/2023 9:09:01 AM"
+  }  
+]
